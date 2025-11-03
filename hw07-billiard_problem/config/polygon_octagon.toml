@@ -1,0 +1,41 @@
+[boundary]
+type = "polygon"
+vertices = [
+    [-1.5, -0.5],
+    [-0.5, -1.5],
+    [0.5, -1.5],
+    [1.5, -0.5],
+    [1.2, 0.8],
+    [0.4, 1.6],
+    [-0.6, 1.6],
+    [-1.4, 0.8],
+]
+
+[initial_state]
+position = [0.0, 0.0]
+velocity = [0.9, 0.45]
+
+[detector]
+mode = "step-back"
+step_size = 0.008
+tolerance = 1e-6
+
+[termination]
+max_time = 80.0
+max_collisions = 300
+
+[sampling]
+poincare_plane_y = 0.0
+zero_cross_eps = 1e-9
+
+[plot]
+width_px = 1200
+height_px = 800
+line_width = 2.0
+
+[output]
+directory = "output"
+base_name = "polygon_octagon"
+export_csv = true
+export_png = true
+export_svg = true

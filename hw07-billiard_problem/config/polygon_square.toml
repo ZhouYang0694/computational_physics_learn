@@ -1,0 +1,37 @@
+[boundary]
+type = "polygon"
+vertices = [
+    [-1.0, -1.0],
+    [ 1.0, -1.0],
+    [ 1.0,  1.0],
+    [-1.0,  1.0],
+]
+
+[initial_state]
+position = [0.0, 0.0]
+velocity = [4.2, 1.11]
+
+[detector]
+mode = "analytic"
+step_size = 0.01
+tolerance = 1e-6
+
+[termination]
+max_time = 50.0
+max_collisions = 200
+
+[sampling]
+poincare_plane_y = 0.0
+zero_cross_eps = 1e-9
+
+[plot]
+width_px = 1200
+height_px = 800
+line_width = 2.0
+
+[output]
+directory = "output"
+base_name = "polygon_square"
+export_csv = true
+export_png = true
+export_svg = true

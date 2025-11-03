@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect x="0" y="0" width="1200" height="800" fill="white"/>
+<rect x="297.5" y="70" width="635" height="635" fill="none" stroke="black" stroke-width="1"/>
+<line x1="378.12890490501087" y1="705" x2="378.12890490501087" y2="715" stroke="black" stroke-width="1"/>
+<text x="378.12890490501087" y="719" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="hanging">-1</text>
+<line x1="497.4419183614691" y1="705" x2="497.4419183614691" y2="715" stroke="black" stroke-width="1"/>
+<text x="497.4419183614691" y="719" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="hanging">-0.5</text>
+<line x1="616.7549318179274" y1="705" x2="616.7549318179274" y2="715" stroke="black" stroke-width="1"/>
+<text x="616.7549318179274" y="719" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="hanging">0</text>
+<line x1="736.0679452743857" y1="705" x2="736.0679452743857" y2="715" stroke="black" stroke-width="1"/>
+<text x="736.0679452743857" y="719" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="hanging">0.5</text>
+<line x1="855.380958730844" y1="705" x2="855.380958730844" y2="715" stroke="black" stroke-width="1"/>
+<text x="855.380958730844" y="719" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="hanging">1</text>
+<line x1="297.5" y1="641.535468078713" x2="287.5" y2="641.535468078713" stroke="black" stroke-width="1"/>
+<text x="281.5" y="641.535468078713" font-family="sans-serif" font-size="18" text-anchor="end" dominant-baseline="middle">-1</text>
+<line x1="297.5" y1="509.46761689935954" x2="287.5" y2="509.46761689935954" stroke="black" stroke-width="1"/>
+<text x="281.5" y="509.46761689935954" font-family="sans-serif" font-size="18" text-anchor="end" dominant-baseline="middle">-0.5</text>
+<line x1="297.5" y1="377.39976572000603" x2="287.5" y2="377.39976572000603" stroke="black" stroke-width="1"/>
+<text x="281.5" y="377.39976572000603" font-family="sans-serif" font-size="18" text-anchor="end" dominant-baseline="middle">0</text>
+<line x1="297.5" y1="245.33191454065252" x2="287.5" y2="245.33191454065252" stroke="black" stroke-width="1"/>
+<text x="281.5" y="245.33191454065252" font-family="sans-serif" font-size="18" text-anchor="end" dominant-baseline="middle">0.5</text>
+<line x1="297.5" y1="113.2640633612989" x2="287.5" y2="113.2640633612989" stroke="black" stroke-width="1"/>
+<text x="281.5" y="113.2640633612989" font-family="sans-serif" font-size="18" text-anchor="end" dominant-baseline="middle">1</text>
+<text x="615" y="740" font-family="sans-serif" font-size="24" text-anchor="middle" dominant-baseline="hanging">x</text>
+<text x="262.5" y="387.5" font-family="sans-serif" font-size="24" text-anchor="middle" transform="rotate(-90 262.5 387.5)">v_x</text>
+<text x="600" y="55" font-family="sans-serif" font-size="30" text-anchor="middle">Poincaré section</text>
+<circle cx="616.7549318179274" cy="218.91834430478184" r="3" fill="black"/>
+<circle cx="484.3407911383315" cy="596.9028216883723" r="3" fill="black"/>
+<circle cx="815.5522163568103" cy="470.85543434101453" r="3" fill="black"/>
+<circle cx="366.14235471118303" cy="599.0997000186246" r="3" fill="black"/>
+<circle cx="817.7227830822751" cy="652.0833333333334" r="3" fill="black"/>
+<circle cx="610.7079635518508" cy="122.91666666666674" r="3" fill="black"/>
+<circle cx="746.8732839637014" cy="561.8294112718261" r="3" fill="black"/>
+<circle cx="495.9089445564042" cy="402.7881291303137" r="3" fill="black"/>
+<circle cx="870.8030716505772" cy="527.5204656929009" r="3" fill="black"/>
+<circle cx="869.1047653149187" cy="280.7207928199637" r="3" fill="black"/>
+<circle cx="395.10690064439297" cy="475.0881481141191" r="3" fill="black"/>
+<circle cx="854.711247432706" cy="313.30563544426474" r="3" fill="black"/>
+<circle cx="540.9360748867628" cy="268.2624735130613" r="3" fill="black"/>
+<circle cx="784.3080721013021" cy="267.1763943997802" r="3" fill="black"/>
+<circle cx="387.8349587502149" cy="651.3616744182968" r="3" fill="black"/>
+<circle cx="753.7764341998534" cy="372.518647036616" r="3" fill="black"/>
+<circle cx="360.11374807579267" cy="627.0133892278437" r="3" fill="black"/>
+<circle cx="786.117150910402" cy="469.7376506040923" r="3" fill="black"/>
+<circle cx="350.4166666666667" cy="313.0359732340154" r="3" fill="black"/>
+<circle cx="680.2769117986841" cy="614.1370570361794" r="3" fill="black"/>
+<circle cx="741.0082486427609" cy="127.30791697485449" r="3" fill="black"/>
+<circle cx="413.72124640124093" cy="439.54694589292177" r="3" fill="black"/>
+<circle cx="879.5833333333333" cy="441.51468101097123" r="3" fill="black"/>
+</svg>

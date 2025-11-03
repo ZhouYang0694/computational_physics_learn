@@ -1,0 +1,67 @@
+[boundary]
+type = "bezier"
+
+[[boundary.segments]]
+start = [1.0, 0.0]
+ctrl1 = [1.1, 0.6]
+ctrl2 = [0.8, 1.1]
+end = [0.4, 1.2]
+
+[[boundary.segments]]
+start = [0.4, 1.2]
+ctrl1 = [0.1, 1.3]
+ctrl2 = [-0.7, 1.1]
+end = [-0.8, 0.9]
+
+[[boundary.segments]]
+start = [-0.8, 0.9]
+ctrl1 = [-1.2, 0.8]
+ctrl2 = [-1.3, 0.1]
+end = [-1.1, -0.2]
+
+[[boundary.segments]]
+start = [-1.1, -0.2]
+ctrl1 = [-1.0, -0.7]
+ctrl2 = [-0.6, -1.3]
+end = [-0.3, -1.1]
+
+[[boundary.segments]]
+start = [-0.3, -1.1]
+ctrl1 = [0.2, -1.2]
+ctrl2 = [0.8, -0.9]
+end = [0.9, -0.6]
+
+[[boundary.segments]]
+start = [0.9, -0.6]
+ctrl1 = [1.2, -0.3]
+ctrl2 = [1.3, 0.2]
+end = [1.0, 0.0]
+
+[initial_state]
+position = [0.0, 0.0]
+velocity = [0.6, 0.9]
+
+[detector]
+mode = "step-back"
+step_size = 0.004
+tolerance = 1e-6
+
+[termination]
+max_time = 60.0
+max_collisions = 400
+
+[sampling]
+poincare_plane_y = 0.0
+zero_cross_eps = 1e-9
+
+[plot]
+width_px = 1200
+height_px = 800
+line_width = 2.0
+
+[output]
+directory = "output"
+base_name = "bezier_irregular"
+export_csv = true
+export_png = true
+export_svg = true

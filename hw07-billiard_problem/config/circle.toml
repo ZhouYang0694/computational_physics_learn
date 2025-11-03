@@ -1,0 +1,33 @@
+[boundary]
+type = "stadium"
+radius = 1.0
+alpha = 0.0
+
+[initial_state]
+position = [0.2, 0.0]
+velocity = [0.0, 0.9]
+
+[detector]
+mode = "step-back"
+step_size = 0.005
+tolerance = 1e-6
+
+[termination]
+max_time = 40.0
+max_collisions = 300
+
+[sampling]
+poincare_plane_y = 0.0
+zero_cross_eps = 1e-9
+
+[plot]
+width_px = 1200
+height_px = 800
+line_width = 2.0
+
+[output]
+directory = "output"
+base_name = "circle_case"
+export_csv = true
+export_png = true
+export_svg = true

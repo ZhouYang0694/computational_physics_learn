@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect x="0" y="0" width="1200" height="800" fill="white"/>
+<rect x="297.5" y="70" width="635" height="635" fill="none" stroke="black" stroke-width="1"/>
+<line x1="415.07189667167364" y1="705" x2="415.07189667167364" y2="715" stroke="black" stroke-width="1"/>
+<text x="415.07189667167364" y="719" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="hanging">-1</text>
+<line x1="615.7991536865459" y1="705" x2="615.7991536865459" y2="715" stroke="black" stroke-width="1"/>
+<text x="615.7991536865459" y="719" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="hanging">0</text>
+<line x1="816.526410701418" y1="705" x2="816.526410701418" y2="715" stroke="black" stroke-width="1"/>
+<text x="816.526410701418" y="719" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="hanging">1</text>
+<line x1="297.5" y1="653.2307761137142" x2="287.5" y2="653.2307761137142" stroke="black" stroke-width="1"/>
+<text x="281.5" y="653.2307761137142" font-family="sans-serif" font-size="18" text-anchor="end" dominant-baseline="middle">-1</text>
+<line x1="297.5" y1="513.6744315223859" x2="287.5" y2="513.6744315223859" stroke="black" stroke-width="1"/>
+<text x="281.5" y="513.6744315223859" font-family="sans-serif" font-size="18" text-anchor="end" dominant-baseline="middle">-0.5</text>
+<line x1="297.5" y1="374.11808693105763" x2="287.5" y2="374.11808693105763" stroke="black" stroke-width="1"/>
+<text x="281.5" y="374.11808693105763" font-family="sans-serif" font-size="18" text-anchor="end" dominant-baseline="middle">0</text>
+<line x1="297.5" y1="234.56174233972934" x2="287.5" y2="234.56174233972934" stroke="black" stroke-width="1"/>
+<text x="281.5" y="234.56174233972934" font-family="sans-serif" font-size="18" text-anchor="end" dominant-baseline="middle">0.5</text>
+<line x1="297.5" y1="95.00539774840104" x2="287.5" y2="95.00539774840104" stroke="black" stroke-width="1"/>
+<text x="281.5" y="95.00539774840104" font-family="sans-serif" font-size="18" text-anchor="end" dominant-baseline="middle">1</text>
+<text x="615" y="740" font-family="sans-serif" font-size="24" text-anchor="middle" dominant-baseline="hanging">x</text>
+<text x="262.5" y="387.5" font-family="sans-serif" font-size="24" text-anchor="middle" transform="rotate(-90 262.5 387.5)">v_x</text>
+<text x="600" y="55" font-family="sans-serif" font-size="30" text-anchor="middle">Poincaré section</text>
+<circle cx="615.7991536865459" cy="122.91666666666674" r="3" fill="black"/>
+<circle cx="807.7544433217761" cy="606.3752596410926" r="3" fill="black"/>
+<circle cx="617.7894670776257" cy="216.21210967465362" r="3" fill="black"/>
+<circle cx="429.698798348939" cy="606.3752596410925" r="3" fill="black"/>
+<circle cx="879.5833333333333" cy="168.74367748035547" r="3" fill="black"/>
+<circle cx="404.5334241332139" cy="291.9159111937948" r="3" fill="black"/>
+<circle cx="851.025835504435" cy="291.9159111937947" r="3" fill="black"/>
+<circle cx="350.41666666666663" cy="565.6880320459798" r="3" fill="black"/>
+<circle cx="564.3925053628333" cy="652.0833333333333" r="3" fill="black"/>
+<circle cx="829.1965246206446" cy="625.3195071954484" r="3" fill="black"/>
+<circle cx="521.7705821387231" cy="248.5173767988622" r="3" fill="black"/>
+<circle cx="842.9341933625186" cy="248.5173767988622" r="3" fill="black"/>
+<circle cx="668.614719008747" cy="625.3195071954483" r="3" fill="black"/>
+<circle cx="421.406953631287" cy="248.51737679886236" r="3" fill="black"/>
+<circle cx="722.4978391535952" cy="248.51737679886236" r="3" fill="black"/>
+<circle cx="427.74201059090007" cy="625.3195071954482" r="3" fill="black"/>
+<circle cx="770.9231902791926" cy="620.587689298862" r="3" fill="black"/>
+<circle cx="500.1966053252797" cy="239.46881275100424" r="3" fill="black"/>
+<circle cx="829.1756665022308" cy="239.46881275100424" r="3" fill="black"/>
+<circle cx="400.84335492850767" cy="248.51737679886224" r="3" fill="black"/>
+<circle cx="701.9342404508159" cy="248.51737679886224" r="3" fill="black"/>
+</svg>
