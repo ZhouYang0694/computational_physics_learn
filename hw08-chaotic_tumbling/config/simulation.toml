@@ -1,0 +1,43 @@
+[simulation]
+mu = 39.47841760435743         # 4 * pi^2
+total_time = 10.0               # years
+dt = 0.0001
+delta_theta0 = 0.01
+
+[simulation.initial_state]
+x = 1.0
+y = 0.0
+vx = 0.0                      # 0 if circular orbit
+vy = 5                        # 2 * pi if circular orbit
+theta = 0.00
+omega = 0.0
+
+[output]
+directory = "output"
+theta_png = "theta_time.png"
+theta_svg = "theta_time.svg"
+omega_png = "omega_time.png"
+omega_svg = "omega_time.svg"
+trajectory_png = "trajectory.png"
+trajectory_svg = "trajectory.svg"
+data_csv = "timeseries.csv"
+data_json = "timeseries.json"
+delta_theta_png = "delta_theta.png"
+delta_theta_svg = "delta_theta.svg"
+
+[output.toggles]
+theta = true
+omega = true
+delta_theta = true
+trajectory = true
+
+[output.data.csv]
+enabled = true
+fields = ["time", "theta_wrapped_primary", "theta_wrapped_secondary", "delta_theta"] # "time", "theta_wrapped_primary", "theta_wrapped_secondary", "delta_theta"
+
+[output.data.json]
+enabled = true
+include_metadata = true
+include_orbital = true
+include_samples = false
+sample_fields = [] # "time", "theta_wrapped_primary", "theta_wrapped_secondary", "delta_theta"

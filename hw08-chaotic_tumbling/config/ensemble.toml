@@ -1,0 +1,48 @@
+[simulation]
+mu = 39.47841760435743
+total_time = 10.0
+dt = 0.0001
+delta_theta0 = 1e-6
+
+[simulation.initial_state]
+x = 1.0
+y = 0.0
+vx = 0.0
+vy = 7.0344827586206895
+theta = 0.0
+omega = 0.0
+
+[ensemble_output]
+directory = "ensemble_output"
+average_png = "delta_theta_average.png"
+average_svg = "delta_theta_average.svg"
+average_csv = "delta_theta_average.csv"
+average_json = "delta_theta_average.json"
+lyapunov_png = "delta_theta_lyapunov.png"
+lyapunov_svg = "delta_theta_lyapunov.svg"
+
+[ensemble_output.toggles]
+png = true
+svg = true
+csv = true
+json = true
+lyapunov_png = true
+lyapunov_svg = true
+
+[ensemble_output.csv]
+enabled = true
+fields = ["time", "delta_theta_avg"]
+
+[ensemble_output.json]
+enabled = true
+include_metadata = true
+include_orbital = true
+include_samples = false
+sample_fields = ["time", "delta_theta_avg"]
+
+[ensemble]
+sample_count = 16
+
+[lyapunov]
+burn_in_time = 0.1
+log_fraction = 0.9
