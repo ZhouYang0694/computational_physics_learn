@@ -1,0 +1,23 @@
+experiment = "right_traveling_gaussian"
+
+[simulation]
+dt = 1e-5
+dx = 0.003
+total_time = 0.005
+
+[physical]
+wave_speed = 300.0
+string_length = 1.0
+
+[gaussian]
+amplitude = 0.2
+center = 0.2
+k = 600.0
+velocity = "right_traveling"
+
+[output]
+base_dir = "output"
+directory = "right_traveling"
+cadence = 20
+write_csv = false
+pixels_per_unit = 800.0

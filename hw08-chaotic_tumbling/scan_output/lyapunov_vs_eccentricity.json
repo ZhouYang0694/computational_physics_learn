@@ -6,18 +6,18 @@
   "samples": [
     {
       "eccentricity": 0.9780574325774578,
-      "lyapunov": 14.20051968003528,
+      "lyapunov": 18.473032387009134,
       "lyapunov_diagnostics": {
-        "intercept": -11.957552146811059,
-        "point_count": 6698,
+        "intercept": -18.010737128880752,
+        "point_count": 6869,
         "segment": {
-          "end_index": 8697,
-          "end_time": 0.8697,
+          "end_index": 8868,
+          "end_time": 0.8868,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 14.20051968003528,
-        "threshold_log10": -0.12025455972580978
+        "slope": 18.473032387009134,
+        "threshold_log10": -0.3402469332608291
       },
       "orbital": {
         "eccentricity": 0.9780574325774578,
@@ -28,18 +28,18 @@
     },
     {
       "eccentricity": 0.9741542678173487,
-      "lyapunov": 14.726476747755038,
+      "lyapunov": 19.338726191331904,
       "lyapunov_diagnostics": {
-        "intercept": -12.961120837854867,
-        "point_count": 7027,
+        "intercept": -19.1345351273778,
+        "point_count": 7308,
         "segment": {
-          "end_index": 9026,
-          "end_time": 0.9026000000000001,
+          "end_index": 9307,
+          "end_time": 0.9307000000000001,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 14.726476747755038,
-        "threshold_log10": -0.1662369436247122
+        "slope": 19.338726191331904,
+        "threshold_log10": -0.37941117542330716
       },
       "orbital": {
         "eccentricity": 0.9741542678173487,
@@ -50,18 +50,18 @@
     },
     {
       "eccentricity": 0.9682817950352679,
-      "lyapunov": 13.541822024808603,
+      "lyapunov": 17.073112324856705,
       "lyapunov_diagnostics": {
-        "intercept": -11.92029000528707,
-        "point_count": 7067,
+        "intercept": -17.806832639112287,
+        "point_count": 7535,
         "segment": {
-          "end_index": 9066,
-          "end_time": 0.9066000000000001,
+          "end_index": 9534,
+          "end_time": 0.9534,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 13.541822024808603,
-        "threshold_log10": -0.1468579677578159
+        "slope": 17.073112324856705,
+        "threshold_log10": -0.3491689990178015
       },
       "orbital": {
         "eccentricity": 0.9682817950352679,
@@ -72,18 +72,18 @@
     },
     {
       "eccentricity": 0.96095819808979,
-      "lyapunov": 13.398134843184508,
+      "lyapunov": 16.75928649241982,
       "lyapunov_diagnostics": {
-        "intercept": -12.488086287903117,
-        "point_count": 7140,
+        "intercept": -18.41588631810268,
+        "point_count": 8545,
         "segment": {
-          "end_index": 9139,
-          "end_time": 0.9139,
+          "end_index": 10544,
+          "end_time": 1.0544,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 13.398134843184508,
-        "threshold_log10": -0.17638806971477194
+        "slope": 16.75928649241982,
+        "threshold_log10": -0.3830115943476784
       },
       "orbital": {
         "eccentricity": 0.96095819808979,
@@ -94,18 +94,18 @@
     },
     {
       "eccentricity": 0.954527566890653,
-      "lyapunov": 11.7435654676876,
+      "lyapunov": 13.906413833557549,
       "lyapunov_diagnostics": {
-        "intercept": -11.231605815901014,
-        "point_count": 7241,
+        "intercept": -16.15437970350462,
+        "point_count": 10391,
         "segment": {
-          "end_index": 9240,
-          "end_time": 0.924,
+          "end_index": 12390,
+          "end_time": 1.239,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 11.7435654676876,
-        "threshold_log10": -0.14911972697055287
+        "slope": 13.906413833557549,
+        "threshold_log10": -0.34036116932231053
       },
       "orbital": {
         "eccentricity": 0.954527566890653,
@@ -116,18 +116,18 @@
     },
     {
       "eccentricity": 0.9467864933470794,
-      "lyapunov": 14.682369999619286,
+      "lyapunov": 14.990792363479724,
       "lyapunov_diagnostics": {
-        "intercept": -13.766158579180757,
-        "point_count": 7322,
+        "intercept": -18.355290911692645,
+        "point_count": 10882,
         "segment": {
-          "end_index": 9321,
-          "end_time": 0.9321,
+          "end_index": 12881,
+          "end_time": 1.2881,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 14.682369999619286,
-        "threshold_log10": -0.2029707863593364
+        "slope": 14.990792363479724,
+        "threshold_log10": -0.4143460094610125
       },
       "orbital": {
         "eccentricity": 0.9467864933470794,
@@ -138,18 +138,18 @@
     },
     {
       "eccentricity": 0.9384226537815893,
-      "lyapunov": 12.573038311296179,
+      "lyapunov": 13.951447751279135,
       "lyapunov_diagnostics": {
-        "intercept": -12.780619643594765,
-        "point_count": 7561,
+        "intercept": -17.939887655110677,
+        "point_count": 10991,
         "segment": {
-          "end_index": 9560,
-          "end_time": 0.9560000000000001,
+          "end_index": 12990,
+          "end_time": 1.2990000000000002,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 12.573038311296179,
-        "threshold_log10": -0.2061472764669139
+        "slope": 13.951447751279135,
+        "threshold_log10": -0.39826073930041517
       },
       "orbital": {
         "eccentricity": 0.9384226537815893,
@@ -160,18 +160,18 @@
     },
     {
       "eccentricity": 0.9294525382072265,
-      "lyapunov": 13.790521784559736,
+      "lyapunov": 14.752128179298833,
       "lyapunov_diagnostics": {
-        "intercept": -13.569490239034396,
-        "point_count": 7584,
+        "intercept": -18.11990340928552,
+        "point_count": 11070,
         "segment": {
-          "end_index": 9583,
-          "end_time": 0.9583,
+          "end_index": 13069,
+          "end_time": 1.3069000000000002,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 13.790521784559736,
-        "threshold_log10": -0.22447879691182315
+        "slope": 14.752128179298833,
+        "threshold_log10": -0.4357183704639773
       },
       "orbital": {
         "eccentricity": 0.9294525382072265,
@@ -182,18 +182,18 @@
     },
     {
       "eccentricity": 0.9199779490283031,
-      "lyapunov": 11.611230179112042,
+      "lyapunov": 13.15897613553996,
       "lyapunov_diagnostics": {
-        "intercept": -12.138897378176575,
-        "point_count": 7775,
+        "intercept": -17.64245026234007,
+        "point_count": 11303,
         "segment": {
-          "end_index": 9774,
-          "end_time": 0.9774,
+          "end_index": 13302,
+          "end_time": 1.3302,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 11.611230179112042,
-        "threshold_log10": -0.20791629347401486
+        "slope": 13.15897613553996,
+        "threshold_log10": -0.40481946631740584
       },
       "orbital": {
         "eccentricity": 0.9199779490283031,
@@ -204,18 +204,18 @@
     },
     {
       "eccentricity": 0.9095068415337032,
-      "lyapunov": 14.293551606328105,
+      "lyapunov": 14.124148090899846,
       "lyapunov_diagnostics": {
-        "intercept": -14.411099198149575,
-        "point_count": 8158,
+        "intercept": -18.8219474596077,
+        "point_count": 11420,
         "segment": {
-          "end_index": 10157,
-          "end_time": 1.0157,
+          "end_index": 13419,
+          "end_time": 1.3419,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 14.293551606328105,
-        "threshold_log10": -0.2476331214051113
+        "slope": 14.124148090899846,
+        "threshold_log10": -0.4630431886240922
       },
       "orbital": {
         "eccentricity": 0.9095068415337032,
@@ -226,18 +226,18 @@
     },
     {
       "eccentricity": 0.8988043004547458,
-      "lyapunov": 12.342275791655677,
+      "lyapunov": 13.067678426013993,
       "lyapunov_diagnostics": {
-        "intercept": -13.992225352314282,
-        "point_count": 8691,
+        "intercept": -18.9005255186416,
+        "point_count": 11627,
         "segment": {
-          "end_index": 10690,
-          "end_time": 1.069,
+          "end_index": 13626,
+          "end_time": 1.3626,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 12.342275791655677,
-        "threshold_log10": -0.27801696319101143
+        "slope": 13.067678426013993,
+        "threshold_log10": -0.4952292856129423
       },
       "orbital": {
         "eccentricity": 0.8988043004547458,
@@ -248,18 +248,18 @@
     },
     {
       "eccentricity": 0.8873967195640465,
-      "lyapunov": 12.02101789123413,
+      "lyapunov": 12.61108636077163,
       "lyapunov_diagnostics": {
-        "intercept": -13.822054388423215,
-        "point_count": 9162,
+        "intercept": -18.669989578266513,
+        "point_count": 11805,
         "segment": {
-          "end_index": 11161,
-          "end_time": 1.1161,
+          "end_index": 13804,
+          "end_time": 1.3804,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 12.02101789123413,
-        "threshold_log10": -0.3038580565865079
+        "slope": 12.61108636077163,
+        "threshold_log10": -0.5011392829135497
       },
       "orbital": {
         "eccentricity": 0.8873967195640465,
@@ -270,18 +270,18 @@
     },
     {
       "eccentricity": 0.8754246006517428,
-      "lyapunov": 11.754397947016784,
+      "lyapunov": 12.150390658434658,
       "lyapunov_diagnostics": {
-        "intercept": -14.028736816844743,
-        "point_count": 9354,
+        "intercept": -18.80254564440459,
+        "point_count": 12038,
         "segment": {
-          "end_index": 11353,
-          "end_time": 1.1353,
+          "end_index": 14037,
+          "end_time": 1.4037000000000002,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 11.754397947016784,
-        "threshold_log10": -0.2938630043156891
+        "slope": 12.150390658434658,
+        "threshold_log10": -0.49997152152693136
       },
       "orbital": {
         "eccentricity": 0.8754246006517428,
@@ -292,18 +292,18 @@
     },
     {
       "eccentricity": 0.8622955456036884,
-      "lyapunov": 9.860080463151577,
+      "lyapunov": 11.091282694775805,
       "lyapunov_diagnostics": {
-        "intercept": -11.778122253696173,
-        "point_count": 9510,
+        "intercept": -16.94999973371054,
+        "point_count": 12860,
         "segment": {
-          "end_index": 11509,
-          "end_time": 1.1509,
+          "end_index": 14859,
+          "end_time": 1.4859,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 9.860080463151577,
-        "threshold_log10": -0.27809101081604126
+        "slope": 11.091282694775805,
+        "threshold_log10": -0.4796750856262886
       },
       "orbital": {
         "eccentricity": 0.8622955456036884,
@@ -314,18 +314,18 @@
     },
     {
       "eccentricity": 0.8494130365722853,
-      "lyapunov": 11.409237767715597,
+      "lyapunov": 12.426707355263657,
       "lyapunov_diagnostics": {
-        "intercept": -13.958284772469453,
-        "point_count": 10967,
+        "intercept": -19.023279107067136,
+        "point_count": 12824,
         "segment": {
-          "end_index": 12966,
-          "end_time": 1.2966,
+          "end_index": 14823,
+          "end_time": 1.4823000000000002,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 11.409237767715597,
-        "threshold_log10": -0.3139253002723086
+        "slope": 12.426707355263657,
+        "threshold_log10": -0.4976955334000577
       },
       "orbital": {
         "eccentricity": 0.8494130365722853,
@@ -336,18 +336,18 @@
     },
     {
       "eccentricity": 0.8355785354338944,
-      "lyapunov": 10.807400425727645,
+      "lyapunov": 11.066571141523466,
       "lyapunov_diagnostics": {
-        "intercept": -14.49335460690511,
-        "point_count": 11337,
+        "intercept": -19.269392284213968,
+        "point_count": 14240,
         "segment": {
-          "end_index": 13336,
-          "end_time": 1.3336000000000001,
+          "end_index": 16239,
+          "end_time": 1.6239000000000001,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 10.807400425727645,
-        "threshold_log10": -0.3130755699653527
+        "slope": 11.066571141523466,
+        "threshold_log10": -0.535806489738313
       },
       "orbital": {
         "eccentricity": 0.8355785354338944,
@@ -358,18 +358,18 @@
     },
     {
       "eccentricity": 0.821658696598651,
-      "lyapunov": 10.871669693402882,
+      "lyapunov": 11.218722703456297,
       "lyapunov_diagnostics": {
-        "intercept": -14.170125444814882,
-        "point_count": 10816,
+        "intercept": -18.932902848591752,
+        "point_count": 13949,
         "segment": {
-          "end_index": 12815,
-          "end_time": 1.2815,
+          "end_index": 15948,
+          "end_time": 1.5948,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 10.871669693402882,
-        "threshold_log10": -0.3266032172474018
+        "slope": 11.218722703456297,
+        "threshold_log10": -0.5365075965568149
       },
       "orbital": {
         "eccentricity": 0.821658696598651,
@@ -380,18 +380,18 @@
     },
     {
       "eccentricity": 0.8058968105333879,
-      "lyapunov": 10.509966648482367,
+      "lyapunov": 10.984131480324868,
       "lyapunov_diagnostics": {
-        "intercept": -14.437238867098202,
-        "point_count": 12149,
+        "intercept": -19.311189915024627,
+        "point_count": 14894,
         "segment": {
-          "end_index": 14148,
-          "end_time": 1.4148,
+          "end_index": 16893,
+          "end_time": 1.6893,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 10.509966648482367,
-        "threshold_log10": -0.33919161410432164
+        "slope": 10.984131480324868,
+        "threshold_log10": -0.5395943775290712
       },
       "orbital": {
         "eccentricity": 0.8058968105333879,
@@ -402,18 +402,18 @@
     },
     {
       "eccentricity": 0.7902735670399653,
-      "lyapunov": 9.381658153441212,
+      "lyapunov": 9.628226374904193,
       "lyapunov_diagnostics": {
-        "intercept": -13.733412365695632,
-        "point_count": 12645,
+        "intercept": -18.490203820238914,
+        "point_count": 16736,
         "segment": {
-          "end_index": 14644,
-          "end_time": 1.4644000000000001,
+          "end_index": 18735,
+          "end_time": 1.8735000000000002,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 9.381658153441212,
-        "threshold_log10": -0.32065172228960837
+        "slope": 9.628226374904193,
+        "threshold_log10": -0.5369041436855921
       },
       "orbital": {
         "eccentricity": 0.7902735670399653,
@@ -424,18 +424,18 @@
     },
     {
       "eccentricity": 0.7742407648709511,
-      "lyapunov": 9.576848692830186,
+      "lyapunov": 10.521484383131709,
       "lyapunov_diagnostics": {
-        "intercept": -14.085222230348812,
-        "point_count": 12880,
+        "intercept": -19.29525608414754,
+        "point_count": 14491,
         "segment": {
-          "end_index": 14879,
-          "end_time": 1.4879,
+          "end_index": 16490,
+          "end_time": 1.649,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 9.576848692830186,
-        "threshold_log10": -0.3311409942094379
+        "slope": 10.521484383131709,
+        "threshold_log10": -0.5400683933417358
       },
       "orbital": {
         "eccentricity": 0.7742407648709511,
@@ -446,18 +446,18 @@
     },
     {
       "eccentricity": 0.7568894341457945,
-      "lyapunov": 8.712254259884194,
+      "lyapunov": 8.949187258072339,
       "lyapunov_diagnostics": {
-        "intercept": -14.339430554627565,
-        "point_count": 13436,
+        "intercept": -19.092682825403354,
+        "point_count": 17742,
         "segment": {
-          "end_index": 15435,
-          "end_time": 1.5435,
+          "end_index": 19741,
+          "end_time": 1.9741000000000002,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 8.712254259884194,
-        "threshold_log10": -0.3184012577607538
+        "slope": 8.949187258072339,
+        "threshold_log10": -0.5134948858204362
       },
       "orbital": {
         "eccentricity": 0.7568894341457945,
@@ -468,18 +468,18 @@
     },
     {
       "eccentricity": 0.739482222358145,
-      "lyapunov": 8.773650644831708,
+      "lyapunov": 8.840947944516625,
       "lyapunov_diagnostics": {
-        "intercept": -14.518259269635562,
-        "point_count": 14121,
+        "intercept": -19.155992695381997,
+        "point_count": 18216,
         "segment": {
-          "end_index": 16120,
-          "end_time": 1.612,
+          "end_index": 20215,
+          "end_time": 2.0215,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 8.773650644831708,
-        "threshold_log10": -0.3165819074581062
+        "slope": 8.840947944516625,
+        "threshold_log10": -0.5371808375353746
       },
       "orbital": {
         "eccentricity": 0.739482222358145,
@@ -490,18 +490,18 @@
     },
     {
       "eccentricity": 0.7221075959896706,
-      "lyapunov": 8.927247414382173,
+      "lyapunov": 9.155511628748132,
       "lyapunov_diagnostics": {
-        "intercept": -14.385419021498306,
-        "point_count": 14788,
+        "intercept": -19.07640169746716,
+        "point_count": 18182,
         "segment": {
-          "end_index": 16787,
-          "end_time": 1.6787,
+          "end_index": 20181,
+          "end_time": 2.0181,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 8.927247414382173,
-        "threshold_log10": -0.3370846152745619
+        "slope": 9.155511628748132,
+        "threshold_log10": -0.5378397704446574
       },
       "orbital": {
         "eccentricity": 0.7221075959896706,
@@ -512,18 +512,18 @@
     },
     {
       "eccentricity": 0.7024653553336786,
-      "lyapunov": 7.856414820411705,
+      "lyapunov": 8.3747760218641,
       "lyapunov_diagnostics": {
-        "intercept": -14.275611009613334,
-        "point_count": 14749,
+        "intercept": -19.245145145839864,
+        "point_count": 19139,
         "segment": {
-          "end_index": 16748,
-          "end_time": 1.6748,
+          "end_index": 21138,
+          "end_time": 2.1138,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 7.856414820411705,
-        "threshold_log10": -0.34463872897203984
+        "slope": 8.3747760218641,
+        "threshold_log10": -0.5344298187374594
       },
       "orbital": {
         "eccentricity": 0.7024653553336786,
@@ -534,18 +534,18 @@
     },
     {
       "eccentricity": 0.6832261798773692,
-      "lyapunov": 7.831590173569971,
+      "lyapunov": 8.151683739128416,
       "lyapunov_diagnostics": {
-        "intercept": -14.203600024532074,
-        "point_count": 16295,
+        "intercept": -18.949035578330157,
+        "point_count": 21570,
         "segment": {
-          "end_index": 18294,
-          "end_time": 1.8294000000000001,
+          "end_index": 23569,
+          "end_time": 2.3569,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 7.831590173569971,
-        "threshold_log10": -0.3300164343360583
+        "slope": 8.151683739128416,
+        "threshold_log10": -0.5330288026952434
       },
       "orbital": {
         "eccentricity": 0.6832261798773692,
@@ -556,18 +556,18 @@
     },
     {
       "eccentricity": 0.6614114058054151,
-      "lyapunov": 7.218765849695396,
+      "lyapunov": 7.4087652025400175,
       "lyapunov_diagnostics": {
-        "intercept": -13.500442778809626,
-        "point_count": 16820,
+        "intercept": -17.98782676269526,
+        "point_count": 22947,
         "segment": {
-          "end_index": 18819,
-          "end_time": 1.8819000000000001,
+          "end_index": 24946,
+          "end_time": 2.4946,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 7.218765849695396,
-        "threshold_log10": -0.33526322337317715
+        "slope": 7.4087652025400175,
+        "threshold_log10": -0.5446712510279923
       },
       "orbital": {
         "eccentricity": 0.6614114058054151,
@@ -578,18 +578,18 @@
     },
     {
       "eccentricity": 0.6425611586924675,
-      "lyapunov": 6.927466309786457,
+      "lyapunov": 7.148411903889479,
       "lyapunov_diagnostics": {
-        "intercept": -13.698013171721813,
-        "point_count": 16992,
+        "intercept": -18.47913323866101,
+        "point_count": 21236,
         "segment": {
-          "end_index": 18991,
-          "end_time": 1.8991,
+          "end_index": 23235,
+          "end_time": 2.3235,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 6.927466309786457,
-        "threshold_log10": -0.33083046471778577
+        "slope": 7.148411903889479,
+        "threshold_log10": -0.5469973366462426
       },
       "orbital": {
         "eccentricity": 0.6425611586924675,
@@ -600,18 +600,18 @@
     },
     {
       "eccentricity": 0.6217923110229846,
-      "lyapunov": 6.92441891408765,
+      "lyapunov": 7.101100043716876,
       "lyapunov_diagnostics": {
-        "intercept": -14.236011346424455,
-        "point_count": 18220,
+        "intercept": -18.910738088554446,
+        "point_count": 24754,
         "segment": {
-          "end_index": 20219,
-          "end_time": 2.0219,
+          "end_index": 26753,
+          "end_time": 2.6753,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 6.92441891408765,
-        "threshold_log10": -0.324365356799329
+        "slope": 7.101100043716876,
+        "threshold_log10": -0.5362517043441546
       },
       "orbital": {
         "eccentricity": 0.6217923110229846,
@@ -622,18 +622,18 @@
     },
     {
       "eccentricity": 0.5994064637091477,
-      "lyapunov": 6.631430595505639,
+      "lyapunov": 7.320350976688176,
       "lyapunov_diagnostics": {
-        "intercept": -13.73113361536226,
-        "point_count": 20379,
+        "intercept": -18.876298911209403,
+        "point_count": 22547,
         "segment": {
-          "end_index": 22378,
-          "end_time": 2.2378,
+          "end_index": 24546,
+          "end_time": 2.4546,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 6.631430595505639,
-        "threshold_log10": -0.32886738667100257
+        "slope": 7.320350976688176,
+        "threshold_log10": -0.5392387377636361
       },
       "orbital": {
         "eccentricity": 0.5994064637091477,
@@ -644,18 +644,18 @@
     },
     {
       "eccentricity": 0.5772164009445898,
-      "lyapunov": 6.578739397653473,
+      "lyapunov": 6.714103679805765,
       "lyapunov_diagnostics": {
-        "intercept": -13.466791598117293,
-        "point_count": 19597,
+        "intercept": -17.999217268854323,
+        "point_count": 25693,
         "segment": {
-          "end_index": 21596,
-          "end_time": 2.1596,
+          "end_index": 27692,
+          "end_time": 2.7692,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 6.578739397653473,
-        "threshold_log10": -0.35126400053150153
+        "slope": 6.714103679805765,
+        "threshold_log10": -0.5527869041890829
       },
       "orbital": {
         "eccentricity": 0.5772164009445898,
@@ -666,18 +666,18 @@
     },
     {
       "eccentricity": 0.5534384973788598,
-      "lyapunov": 6.039948873701432,
+      "lyapunov": 5.961575057414352,
       "lyapunov_diagnostics": {
-        "intercept": -13.67465673599265,
-        "point_count": 21910,
+        "intercept": -18.1407269111281,
+        "point_count": 27928,
         "segment": {
-          "end_index": 23909,
-          "end_time": 2.3909000000000002,
+          "end_index": 29927,
+          "end_time": 2.9927,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 6.039948873701432,
-        "threshold_log10": -0.35399159618581777
+        "slope": 5.961575057414352,
+        "threshold_log10": -0.556278045166648
       },
       "orbital": {
         "eccentricity": 0.5534384973788598,
@@ -688,18 +688,18 @@
     },
     {
       "eccentricity": 0.530436882007566,
-      "lyapunov": 6.019650222936463,
+      "lyapunov": 6.319230406405948,
       "lyapunov_diagnostics": {
-        "intercept": -13.823127504359334,
-        "point_count": 22262,
+        "intercept": -18.50661970374327,
+        "point_count": 28007,
         "segment": {
-          "end_index": 24261,
-          "end_time": 2.4261,
+          "end_index": 30006,
+          "end_time": 3.0006,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 6.019650222936463,
-        "threshold_log10": -0.3444190219146739
+        "slope": 6.319230406405948,
+        "threshold_log10": -0.5497265980387125
       },
       "orbital": {
         "eccentricity": 0.530436882007566,
@@ -710,18 +710,18 @@
     },
     {
       "eccentricity": 0.5054628498982747,
-      "lyapunov": 5.751050241671788,
+      "lyapunov": 5.919772433893138,
       "lyapunov_diagnostics": {
-        "intercept": -13.97761102522672,
-        "point_count": 22735,
+        "intercept": -18.631635102623523,
+        "point_count": 29157,
         "segment": {
-          "end_index": 24734,
-          "end_time": 2.4734000000000003,
+          "end_index": 31156,
+          "end_time": 3.1156,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 5.751050241671788,
-        "threshold_log10": -0.3564316251281925
+        "slope": 5.919772433893138,
+        "threshold_log10": -0.542205840255364
       },
       "orbital": {
         "eccentricity": 0.5054628498982747,
@@ -732,18 +732,18 @@
     },
     {
       "eccentricity": 0.4812363567085355,
-      "lyapunov": 5.341629153315983,
+      "lyapunov": 5.766880541878796,
       "lyapunov_diagnostics": {
-        "intercept": -13.803335346070105,
-        "point_count": 24163,
+        "intercept": -18.767262247674413,
+        "point_count": 30136,
         "segment": {
-          "end_index": 26162,
-          "end_time": 2.6162,
+          "end_index": 32135,
+          "end_time": 3.2135000000000002,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 5.341629153315983,
-        "threshold_log10": -0.3402981246267158
+        "slope": 5.766880541878796,
+        "threshold_log10": -0.5777825678684723
       },
       "orbital": {
         "eccentricity": 0.4812363567085355,
@@ -754,18 +754,18 @@
     },
     {
       "eccentricity": 0.4567787000923428,
-      "lyapunov": 4.646491867397542,
+      "lyapunov": 4.699110810868818,
       "lyapunov_diagnostics": {
-        "intercept": -13.236657414869741,
-        "point_count": 26007,
+        "intercept": -17.889191164939266,
+        "point_count": 33967,
         "segment": {
-          "end_index": 28006,
-          "end_time": 2.8006,
+          "end_index": 35966,
+          "end_time": 3.5966,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 4.646491867397542,
-        "threshold_log10": -0.3841409860352041
+        "slope": 4.699110810868818,
+        "threshold_log10": -0.5921151320609255
       },
       "orbital": {
         "eccentricity": 0.4567787000923428,
@@ -776,18 +776,18 @@
     },
     {
       "eccentricity": 0.42959021931991687,
-      "lyapunov": 3.723317593192373,
+      "lyapunov": 3.91851585473933,
       "lyapunov_diagnostics": {
-        "intercept": -11.668649426821323,
-        "point_count": 29363,
+        "intercept": -16.164414086987364,
+        "point_count": 39695,
         "segment": {
-          "end_index": 31362,
-          "end_time": 3.1362,
+          "end_index": 41694,
+          "end_time": 4.1694,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 3.723317593192373,
-        "threshold_log10": -0.3699034594733739
+        "slope": 3.91851585473933,
+        "threshold_log10": -0.603261895933044
       },
       "orbital": {
         "eccentricity": 0.42959021931991687,
@@ -798,18 +798,18 @@
     },
     {
       "eccentricity": 0.4036567194140962,
-      "lyapunov": 3.8089650268719777,
+      "lyapunov": 4.527167162722838,
       "lyapunov_diagnostics": {
-        "intercept": -12.833374370336134,
-        "point_count": 33582,
+        "intercept": -18.274333440732786,
+        "point_count": 37477,
         "segment": {
-          "end_index": 35581,
-          "end_time": 3.5581,
+          "end_index": 39476,
+          "end_time": 3.9476,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 3.8089650268719777,
-        "threshold_log10": -0.4242303837598298
+        "slope": 4.527167162722838,
+        "threshold_log10": -0.5956245975473591
       },
       "orbital": {
         "eccentricity": 0.4036567194140962,
@@ -820,18 +820,18 @@
     },
     {
       "eccentricity": 0.3754994342058301,
-      "lyapunov": 3.9655776390858226,
+      "lyapunov": 4.212227187494224,
       "lyapunov_diagnostics": {
-        "intercept": -13.516525914084298,
-        "point_count": 32366,
+        "intercept": -18.301109713771236,
+        "point_count": 40398,
         "segment": {
-          "end_index": 34365,
-          "end_time": 3.4365,
+          "end_index": 42397,
+          "end_time": 4.2397,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 3.9655776390858226,
-        "threshold_log10": -0.45143761748074684
+        "slope": 4.212227187494224,
+        "threshold_log10": -0.6755452280559275
       },
       "orbital": {
         "eccentricity": 0.3754994342058301,
@@ -842,18 +842,18 @@
     },
     {
       "eccentricity": 0.3482601569696937,
-      "lyapunov": 2.575073147682025,
+      "lyapunov": 2.8614594126545967,
       "lyapunov_diagnostics": {
-        "intercept": -12.61929632701421,
-        "point_count": 46611,
+        "intercept": -17.641693672432353,
+        "point_count": 53752,
         "segment": {
-          "end_index": 48610,
-          "end_time": 4.861000000000001,
+          "end_index": 55751,
+          "end_time": 5.5751,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 2.575073147682025,
-        "threshold_log10": -0.4444430674660378
+        "slope": 2.8614594126545967,
+        "threshold_log10": -0.7618894648208236
       },
       "orbital": {
         "eccentricity": 0.3482601569696937,
@@ -864,18 +864,18 @@
     },
     {
       "eccentricity": 0.318974905439752,
-      "lyapunov": 3.1601342049314494,
+      "lyapunov": 3.3348401677238844,
       "lyapunov_diagnostics": {
-        "intercept": -12.90814386945651,
-        "point_count": 38873,
+        "intercept": -17.491693467836228,
+        "point_count": 49653,
         "segment": {
-          "end_index": 40872,
-          "end_time": 4.0872,
+          "end_index": 51652,
+          "end_time": 5.1652000000000005,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 3.1601342049314494,
-        "threshold_log10": -0.5869494847451024
+        "slope": 3.3348401677238844,
+        "threshold_log10": -0.8622990118225822
       },
       "orbital": {
         "eccentricity": 0.318974905439752,
@@ -886,18 +886,18 @@
     },
     {
       "eccentricity": 0.2905064971426224,
-      "lyapunov": 3.0255862666388857,
+      "lyapunov": 3.2128568009358784,
       "lyapunov_diagnostics": {
-        "intercept": -12.404477355203168,
-        "point_count": 42323,
+        "intercept": -17.11340115997812,
+        "point_count": 52935,
         "segment": {
-          "end_index": 44322,
-          "end_time": 4.4322,
+          "end_index": 54934,
+          "end_time": 5.4934,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 3.0255862666388857,
-        "threshold_log10": -0.5638608719978624
+        "slope": 3.2128568009358784,
+        "threshold_log10": -0.8778510012265972
       },
       "orbital": {
         "eccentricity": 0.2905064971426224,
@@ -908,18 +908,18 @@
     },
     {
       "eccentricity": 0.26002598662521453,
-      "lyapunov": 2.4553438262328,
+      "lyapunov": 2.3694059854219782,
       "lyapunov_diagnostics": {
-        "intercept": -12.95277313384277,
-        "point_count": 46747,
+        "intercept": -17.26419793932037,
+        "point_count": 62411,
         "segment": {
-          "end_index": 48746,
-          "end_time": 4.8746,
+          "end_index": 64410,
+          "end_time": 6.441000000000001,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 2.4553438262328,
-        "threshold_log10": -0.7464864129070659
+        "slope": 2.3694059854219782,
+        "threshold_log10": -1.0670018015765983
       },
       "orbital": {
         "eccentricity": 0.26002598662521453,
@@ -930,18 +930,18 @@
     },
     {
       "eccentricity": 0.23031382857007787,
-      "lyapunov": 2.425278517821256,
+      "lyapunov": 2.539617937939127,
       "lyapunov_diagnostics": {
-        "intercept": -13.597923062144007,
-        "point_count": 45257,
+        "intercept": -18.42296480015515,
+        "point_count": 56813,
         "segment": {
-          "end_index": 47256,
-          "end_time": 4.7256,
+          "end_index": 58812,
+          "end_time": 5.881200000000001,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 2.425278517821256,
-        "threshold_log10": -0.8341940509370867
+        "slope": 2.539617937939127,
+        "threshold_log10": -1.1889253412927214
       },
       "orbital": {
         "eccentricity": 0.23031382857007787,
@@ -952,18 +952,18 @@
     },
     {
       "eccentricity": 0.19865415305478676,
-      "lyapunov": 1.9910304358445559,
+      "lyapunov": 2.07371223386028,
       "lyapunov_diagnostics": {
-        "intercept": -13.934348041929068,
-        "point_count": 56648,
+        "intercept": -18.76533046950298,
+        "point_count": 68172,
         "segment": {
-          "end_index": 58647,
-          "end_time": 5.8647,
+          "end_index": 70171,
+          "end_time": 7.0171,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 1.9910304358445559,
-        "threshold_log10": -0.9714023379474304
+        "slope": 2.07371223386028,
+        "threshold_log10": -1.4238320994062423
       },
       "orbital": {
         "eccentricity": 0.19865415305478676,
@@ -974,18 +974,18 @@
     },
     {
       "eccentricity": 0.1676104884913747,
-      "lyapunov": 2.1885585818593665,
+      "lyapunov": 1.8857519944766274,
       "lyapunov_diagnostics": {
-        "intercept": -13.868130051433775,
-        "point_count": 46312,
+        "intercept": -17.690104838746876,
+        "point_count": 76939,
         "segment": {
-          "end_index": 48311,
-          "end_time": 4.8311,
+          "end_index": 78938,
+          "end_time": 7.893800000000001,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 2.1885585818593665,
-        "threshold_log10": -1.0197691468972403
+        "slope": 1.8857519944766274,
+        "threshold_log10": -1.4110196033725666
       },
       "orbital": {
         "eccentricity": 0.1676104884913747,
@@ -996,18 +996,18 @@
     },
     {
       "eccentricity": 0.1348572708613327,
-      "lyapunov": 2.15848144871672,
+      "lyapunov": 2.1251065918243777,
       "lyapunov_diagnostics": {
-        "intercept": -14.352678032076238,
-        "point_count": 53988,
+        "intercept": -18.84079705137189,
+        "point_count": 69994,
         "segment": {
-          "end_index": 55987,
-          "end_time": 5.5987,
+          "end_index": 71993,
+          "end_time": 7.1993,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 2.15848144871672,
-        "threshold_log10": -1.0953169889181016
+        "slope": 2.1251065918243777,
+        "threshold_log10": -1.5897911784790724
       },
       "orbital": {
         "eccentricity": 0.1348572708613327,
@@ -1018,18 +1018,18 @@
     },
     {
       "eccentricity": 0.10238647677968904,
-      "lyapunov": 1.3250984093076177,
+      "lyapunov": 1.1806755989170041,
       "lyapunov_diagnostics": {
-        "intercept": -13.13538746868494,
-        "point_count": 67304,
+        "intercept": -17.383236391511286,
+        "point_count": 89743,
         "segment": {
-          "end_index": 69303,
-          "end_time": 6.9303,
+          "end_index": 91742,
+          "end_time": 9.1742,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 1.3250984093076177,
-        "threshold_log10": -1.2032901491466124
+        "slope": 1.1806755989170041,
+        "threshold_log10": -2.3491100926016006
       },
       "orbital": {
         "eccentricity": 0.10238647677968904,
@@ -1040,18 +1040,18 @@
     },
     {
       "eccentricity": 0.06863682023711848,
-      "lyapunov": 1.0965441482424623,
+      "lyapunov": 1.100270666499814,
       "lyapunov_diagnostics": {
-        "intercept": -12.368709180078646,
-        "point_count": 75227,
+        "intercept": -16.981661596513423,
+        "point_count": 75444,
         "segment": {
-          "end_index": 77226,
-          "end_time": 7.722600000000001,
+          "end_index": 77443,
+          "end_time": 7.7443,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 1.0965441482424623,
-        "threshold_log10": -1.5951409535161218
+        "slope": 1.100270666499814,
+        "threshold_log10": -3.262129952435928
       },
       "orbital": {
         "eccentricity": 0.06863682023711848,
@@ -1062,18 +1062,18 @@
     },
     {
       "eccentricity": 0.03472862991536674,
-      "lyapunov": 0.9493040250602082,
+      "lyapunov": 1.0156493317547752,
       "lyapunov_diagnostics": {
-        "intercept": -13.357720009704483,
-        "point_count": 82661,
+        "intercept": -18.171200334967683,
+        "point_count": 91528,
         "segment": {
-          "end_index": 84660,
-          "end_time": 8.466000000000001,
+          "end_index": 93527,
+          "end_time": 9.3527,
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 0.9493040250602082,
-        "threshold_log10": -1.6695081154544278
+        "slope": 1.0156493317547752,
+        "threshold_log10": -3.0277353268259155
       },
       "orbital": {
         "eccentricity": 0.03472862991536674,
@@ -1084,9 +1084,9 @@
     },
     {
       "eccentricity": 0.0,
-      "lyapunov": 0.3508613922187242,
+      "lyapunov": 0.3508589900435411,
       "lyapunov_diagnostics": {
-        "intercept": -12.220675063487151,
+        "intercept": -16.825842191717534,
         "point_count": 70106,
         "segment": {
           "end_index": 72105,
@@ -1094,8 +1094,8 @@
           "start_index": 2000,
           "start_time": 0.2
         },
-        "slope": 0.3508613922187242,
-        "threshold_log10": -4.275467824145324
+        "slope": 0.3508589900435411,
+        "threshold_log10": -6.2754073729861
       },
       "orbital": {
         "eccentricity": 0.0,
@@ -1111,7 +1111,7 @@
     "vy_min": 0.9
   },
   "simulation": {
-    "delta_theta0": 1e-6,
+    "delta_theta0": 1e-8,
     "dt": 0.0001,
     "initial_state": {
       "omega": 0.0,
