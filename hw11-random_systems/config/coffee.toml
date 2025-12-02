@@ -1,0 +1,7 @@
+size = 50
+hole_length = 10
+max_steps = 40000
+molecules = 800
+initial_block = 10
+seed = 7
+snapshot_interval = 1000

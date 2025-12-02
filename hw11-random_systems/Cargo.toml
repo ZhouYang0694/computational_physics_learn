@@ -1,0 +1,18 @@
+[package]
+name = "hw11-random_systems"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.8"
+plotters = "0.3"
+serde = { version = "1.0", features = ["derive"] }
+toml = "0.8"
+
+[[bin]]
+name = "dla"
+path = "src/bin/dla.rs"
+
+[[bin]]
+name = "coffee"
+path = "src/bin/coffee.rs"

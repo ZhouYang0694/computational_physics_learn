@@ -1,0 +1,12 @@
+Coffee cup diffusion with escape hole
+grid_size = 50
+hole_length = 10
+initial_molecules = 800
+simulation_steps = 40000
+escaped_molecules = 795
+remaining_inside = 5
+snapshot_interval = 1000
+snapshots_saved = 41
+fit_tau = 8226.434
+fit_n0 = 789.995
+fit_r2 = 0.9955

@@ -1,0 +1,13 @@
+Diffusion-limited aggregation simulation
+grid_size = 401
+num_particles = 3500
+spawn_margin = 5.00
+kill_margin = 25.00
+cluster_radius = 112.699
+fit_burn_in_fraction = 0.20
+fit_burn_out_fraction = 0.25
+fit_points_total = 199
+fit_points_used = 111
+fit_slope (D) = 1.6178
+fit_intercept = 0.5013
+fit_r2 = 0.9994

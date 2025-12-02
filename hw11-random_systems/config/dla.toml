@@ -1,0 +1,8 @@
+grid_size = 401
+num_particles = 3500
+step_limit = 20000
+spawn_margin = 5.0
+kill_margin = 25.0
+seed = 41
+fit_burn_in_fraction = 0.2
+fit_burn_out_fraction = 0.25
