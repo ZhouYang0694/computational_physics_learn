@@ -1,0 +1,11 @@
+[package]
+name = "assignment_2"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+ising_core = { path = "../ising_core" }
+plotters.workspace = true
+rand.workspace = true
+serde.workspace = true
+toml.workspace = true

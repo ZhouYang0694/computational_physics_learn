@@ -1,0 +1,13 @@
+[workspace]
+members = ["ising_core", "assignment_1", "assignment_2"]
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
+version = "0.1.0"
+
+[workspace.dependencies]
+rand = "0.8"
+plotters = "0.3"
+serde = { version = "1", features = ["derive"] }
+toml = "0.8"

@@ -1,0 +1,5 @@
+lattice_size = 20
+equilibration_sweeps = 1000
+measurement_sweeps = 1500
+seed = 4242
+init_mode = "random" # options: "random", "all_up"
